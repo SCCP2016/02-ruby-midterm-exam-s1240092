@@ -22,7 +22,7 @@
 標準出力に Hello World と出力するRubyのプログラムを書け。
 
 ```ruby
-push 'Hello World'
+puts ""Hello World""
 ```
 
 ## 2. 適切なものを選び、説明を埋めよ
@@ -36,7 +36,10 @@ Bool
 # 存在する型と具体例
 # [答え方の例]
 # 型: 具体例
-Fixnum:
+Fixnum:1
+Bignum:1
+Float:3.14
+String:'Hello, ' + 'world!'
 ```
 
 ## 3. 適切なプログラムを書け
