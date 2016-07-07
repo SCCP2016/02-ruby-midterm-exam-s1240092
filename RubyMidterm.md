@@ -37,7 +37,7 @@ Bool
 # [答え方の例]
 # 型: 具体例
 Fixnum:1
-Bignum:1
+Bignum:10000000000
 Float:3.14
 String:'Hello, ' + 'world!'
 ```
@@ -57,6 +57,7 @@ String:'Hello, ' + 'world!'
 - 入力に対して、金額を整数で出力する
 - 出力をする命令は一度しか使ってはならない
 
+if
 
 ```ruby
 # 入力例1
